@@ -1,5 +1,11 @@
+import streamlit as st
+from google import genai
+import config
+
+
+st.html(
 <!DOCTYPE html>
-<head>
+    <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     //May change later - depends on what we use
 
@@ -31,3 +37,4 @@
 //Miscillaneous information
 
 </html>
+)
