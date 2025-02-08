@@ -4,4 +4,3 @@ requests
 pytest
 ipywidgets
 google-genai
-streamlit.components

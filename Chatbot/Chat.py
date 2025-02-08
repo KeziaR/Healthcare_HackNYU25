@@ -3,9 +3,6 @@ from google import genai
 import config
 
 
-
-
-
 client = genai.Client(api_key=config.INFO)
 
 response = client.models.generate_content(
