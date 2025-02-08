@@ -1,1 +1,6 @@
-streamlit
+streamlit-folium
+pandas
+requests
+pytest
+ipywidgets
+google-genai
