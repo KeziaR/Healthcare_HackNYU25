@@ -3,6 +3,7 @@ import requests as rq
 from google import genai
 import streamlit.components.v1 as components
 
+
     
 web_app = """
 
@@ -41,4 +42,5 @@ web_app = """
 """
 
 components.html(web_app, height=800, scrolling=True)
+
 
