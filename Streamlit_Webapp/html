@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    //May change later - depends on what we use
+
+    <title>This is the title</title>
+    //Title will be added later
+
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <nav>
+        <ul>
+
+        </ul>
+        
+    </nav>
+    //Add navigation bar later
+
+</head>
+<body>
+    <aside>
+
+    </aside>
+//Chatbox goes here
+
+</body>
+//Should include mood tracker and other features
+
+<footer>
+
+</footer>
+//Miscillaneous information
+
+</html>
