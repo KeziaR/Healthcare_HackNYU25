@@ -73,7 +73,3 @@ Contributors:
 components.html(web_app, height=800, scrolling=True)
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 7cd17d1 (added css to web interface)
