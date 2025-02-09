@@ -1,11 +1,15 @@
 import streamlit as st
 from google import genai
 import config
+import os
 
 
 st.html(
 <!DOCTYPE html>
     <head>
+        <script type="text/javacript" src="Streamlit_Webapp\Mood_Tracker.js"></script>
+        
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     //May change later - depends on what we use
 
@@ -30,6 +34,14 @@ st.html(
 
 </body>
 //Should include mood tracker and other features
+
+<button name="Happy_button"> <onclick="Mood()"> <img src="Pictures\Happy.png"</button>
+<button name="Angry_button"> <onclick="Mood()"> <img src="Pictures\Angry.png"</button>
+<button name="Meh_button"> <onclick="Mood()"> <img src="Pictures\Meh.png"</button>
+
+// Script to move emoji to the 
+
+
 
 <footer>
 

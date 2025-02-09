@@ -1,6 +1,4 @@
-streamlit-folium
-pandas
+configparser
 requests
-pytest
 ipywidgets
 google-genai
